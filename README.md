@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khnalharbi
+- 👋 Hi, I’m Khalid
 - 👀 I’m interested in AI/ML
 - 💞️ I’m looking to collaborate on bulding new models
 - 📫 You can contact me @ khalid.harbi.07@gmail.com
