@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Khalid
+- 👋 Hi, I’m Khalid. I hold a master's degree in ECE from USC
 - 👀 I’m interested in AI/ML
-- 💞️ I’m looking to collaborate on bulding new models
-- 📫 You can contact me @ khalid.harbi.07@gmail.com
+- 💞️ I’m eager to build new models
+- 📫 For collaboration, you can contact me at khalid.harbi.07@gmail.com
 
 <!---
 khnalharbi/khnalharbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
